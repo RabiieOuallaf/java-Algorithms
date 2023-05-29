@@ -1,6 +1,7 @@
 
 public class LinearSearch {
     // Linear serach  = Iterate through a collection one element at a time
+    // Time complexity O(n)
     LinearSearch(int value) {
         int[] array = {9,5,4,3,7,8,2,12,98,33,656,743,0};
         int index = linearSearch(array, value);
