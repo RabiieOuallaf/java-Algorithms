@@ -6,6 +6,7 @@ public class Main {
         // new BinarySearch(50);
         // new InterpolationSearch(5);
         // new BubbleSort();
-        new SelectionSort();
+        //new SelectionSort();
+        new InsertionSort();
     }
 }
