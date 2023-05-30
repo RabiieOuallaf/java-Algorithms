@@ -7,6 +7,7 @@ public class Main {
         // new InterpolationSearch(5);
         // new BubbleSort();
         //new SelectionSort();
-        new InsertionSort();
+        //new InsertionSort();
+        new Recursion();
     }
 }
