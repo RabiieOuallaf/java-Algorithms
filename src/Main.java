@@ -8,7 +8,8 @@ public class Main {
         // new BubbleSort();
         // new SelectionSort();
         // new InsertionSort();
-        // new Recursion()
-        new MergeSort();
+        // new Recursion();
+        // new MergeSort();
+        // new QuickSort();
     }
 }
